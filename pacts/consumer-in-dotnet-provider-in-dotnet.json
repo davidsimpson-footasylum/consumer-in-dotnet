@@ -1,9 +1,9 @@
 {
   "consumer": {
-    "name": "pactflow-example-consumer-dotnet"
+    "name": "consumer-in-dotnet"
   },
   "provider": {
-    "name": "pactflow-example-provider-dotnet"
+    "name": "provider-in-dotnet"
   },
   "interactions": [
     {
